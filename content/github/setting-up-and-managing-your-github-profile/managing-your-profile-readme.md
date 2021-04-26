@@ -1,3 +1,4 @@
+![174171377_454920992454996_1289763798013156609_n](https://user-images.githubusercontent.com/83235895/116117978-11218e00-a6e7-11eb-9727-5b287986a75f.jpg)
 ---
 title: Managing your profile README
 intro: 'You can add a README to your {% data variables.product.prodname_dotcom %} profile to tell other people about yourself.'
